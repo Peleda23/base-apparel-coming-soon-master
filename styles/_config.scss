@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css?family=Josefin+Sans:300i,400,600&display=swap');
+
+// ---Colors---
+
+$primary_one: hsl(0, 36%, 70%);
+$primary_two: hsl(0, 93%, 68%);
+$neutral: hsl(0, 6%, 24%);
+$gradient_one: Linear,
+135deg,
+from hsl(0, 0%, 100%),
+to hsl(0, 100%, 98%);
+$gradient_two: Linear,
+135deg,
+from hsl(0, 80%, 86%),
+to hsl(0, 74%, 74%);
+
+// ---Typography---
+
+$font_size: 16px;
+$font_family: 'Josefin Sans',
+sans-serif;
+$font_weight_one: 300;
+$font_weight_two: 400;
+$font_weight_three: 600;
+
+// ---Layout---
+
+$mobile: 375px;
+$desktop: 1440px;
